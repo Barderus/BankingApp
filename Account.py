@@ -1,7 +1,7 @@
 """
 """
 import pickle
-class Account():
+class Account:
     
     def __init__(self, acc_name, acc_passcode):
         
